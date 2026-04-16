@@ -97,3 +97,52 @@ JOIN Books b ON oi.book_id = b.book_id
 GROUP BY b.title
 ORDER BY revenue DESC
 LIMIT 5;
+
+---
+
+## 🛠️ Tech Stack
+
+- **Database:** MySQL  
+- **Language:** SQL  
+- **Tools:** MySQL Workbench, dbdiagram.io  
+
+---
+
+## 🚀 Getting Started
+
+### 1️⃣ Clone Repository
+```bash
+git clone https://github.com/charan110604/Library-management-Database.git
+cd Library-management-Database
+
+2️⃣ Setup Database
+CREATE DATABASE bookstore_db;
+USE bookstore_db;
+
+3️⃣ Import SQL File
+
+Run the following file in MySQL:
+
+OnlineBookstoreDB.sql
+
+📈 Workflow
+User Registration & Login
+Browse / Search Books
+Add to Cart & Place Order
+Payment Processing
+Order Fulfillment (Shipping & Delivery)
+Reporting & Analytics
+
+🎯 Key Highlights
+✔ Fully normalized relational database (3NF)
+✔ Real-world e-commerce use case
+✔ Advanced SQL (Triggers, Views, Events)
+✔ Handles both transactions and analytics
+✔ Scalable and modular design
+
+🔮 Future Improvements
+🔗 Backend integration using Spring Boot
+⚛️ Frontend using React.js
+🤖 Book recommendation system
+📊 Dashboard for analytics and reports
+🔐 Role-based authentication & authorization
