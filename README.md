@@ -125,24 +125,33 @@ Run the following file in MySQL:
 
 OnlineBookstoreDB.sql
 
-📈 Workflow
-User Registration & Login
-Browse / Search Books
-Add to Cart & Place Order
-Payment Processing
-Order Fulfillment (Shipping & Delivery)
-Reporting & Analytics
+---
 
-🎯 Key Highlights
-✔ Fully normalized relational database (3NF)
-✔ Real-world e-commerce use case
-✔ Advanced SQL (Triggers, Views, Events)
-✔ Handles both transactions and analytics
-✔ Scalable and modular design
+## 📈 Workflow
 
-🔮 Future Improvements
-🔗 Backend integration using Spring Boot
-⚛️ Frontend using React.js
-🤖 Book recommendation system
-📊 Dashboard for analytics and reports
-🔐 Role-based authentication & authorization
+- User Registration & Login  
+- Browse / Search Books  
+- Add to Cart & Place Order  
+- Payment Processing  
+- Order Fulfillment (Shipping & Delivery)  
+- Reporting & Analytics  
+
+---
+
+## 🎯 Key Highlights
+
+- Fully normalized relational database (3NF)  
+- Real-world e-commerce use case  
+- Advanced SQL (Triggers, Views, Events)  
+- Supports both transactions and analytics  
+- Scalable and modular design  
+
+---
+
+## 🔮 Future Improvements
+
+- Backend integration using Spring Boot  
+- Frontend using React.js  
+- Book recommendation system  
+- Analytics dashboard  
+- Role-based authentication & authorization  
